@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaveeshaah&label=Profile%20views&color=0e75b6&style=flat" alt="kaveeshaah" /> </p>
   
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **JavaScript**
 
 - 📫 How to reach me **st20306071@outlook.cardiffmet.ac.uk**
 
