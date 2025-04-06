@@ -35,6 +35,8 @@
   </a>
 </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaveeshaah&layout=compact&theme=default&hide_border=true&langs_count=4" alt="kaveeshaah" /></p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaveeshaah&show_icons=true&locale=en&layout=compact" alt="kaveeshaah" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaveeshaah&show_icons=true&locale=en" alt="kaveeshaah" /></p>
