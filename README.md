@@ -21,6 +21,17 @@
 
 ---
 
+### 🏆 Achievements
+
+- 🥇 **Completed Harvard's CS50x** – Introduction to Computer Science
+- 🧩 **Built a full-stack QR Code Attendance System** using MERN Stack
+- 🌐 **Created UI designs** for supermarket systems & LMS platforms using Figma
+- 🧠 **Won Best Project Pitch** in university group presentation
+- 💡 **Solved 100+ coding problems** on platforms like HackerRank & LeetCode
+- 🔗 **Hosted a mini portfolio** using GitHub Pages and Netlify
+
+---
+
 ### 🔗 Connect With Me
 
 <p align="center">
@@ -64,4 +75,3 @@
 > — *Kaveesha*
 
 ---
-
