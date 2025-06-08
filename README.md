@@ -37,10 +37,6 @@
 <p align="center">
   <a href="https://linkedin.com/in/milani-kaveesha" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="linkedin" />
-  </a>
-  <a href="https://instagram.com/kaveesha___12" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="instagram" />
-  </a>
 </p>
 
 ---
