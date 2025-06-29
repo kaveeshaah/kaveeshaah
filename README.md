@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <span style="color:#00BFFF;">Kaveesha</span></h1>
-<h3 align="center">💻 Software Engineering Student | MERN Stack Learner | Pizza Enthusiast 🍕</h3>
+<h3 align="center">💻 Software Engineering Student | React | Pizza Enthusiast 🍕</h3>
 
 <p align="center">
   <img src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112" alt="coding-girl" width="300" />
@@ -14,7 +14,7 @@
 ### 🧑‍💻 About Me
 
 - 🎓 Studying **BSc (Hons) in Software Engineering**
-- 🌱 Currently learning: **JavaScript | React | MongoDB | Express.js**
+- 🌱 Currently learning: **JavaScript | React | Node.js | Express.js**
 - 🎯 Goal: Become a Full Stack Developer
 - 📫 Email me: **st20306071@outlook.cardiffmet.ac.uk**
 - 🎉 Fun Fact: I design better with coffee ☕ and code best with pizza 🍕
@@ -41,7 +41,7 @@
 ### ⚙️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,cpp,c,git,vscode&theme=dark" alt="technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,cpp,c,git,php,csharp,vscode&theme=dark" alt="technologies" />
 </p>
 
 ---
