@@ -41,7 +41,7 @@
 ### ⚙️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,cpp,c,git,php,csharp,vscode&theme=dark" alt="technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,cpp,c,git,php,cs,vscode&theme=dark" alt="technologies" />
 </p>
 
 ---
