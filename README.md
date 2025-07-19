@@ -13,11 +13,12 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 Studying **BSc (Hons) in Software Engineering**
-- 🌱 Currently learning: **JavaScript | React | Node.js | Express.js**
+- 🎓 Studying **BSc (Hons) in Software Engineering** at Cardiff Metropolitan University
+- 🌱 Currently learning: **JavaScript | React | Node.js | Express.js | MongoDB**
 - 🎯 Goal: Become a Full Stack Developer
 - 📫 Email me: **st20306071@outlook.cardiffmet.ac.uk**
 - 🎉 Fun Fact: I design better with coffee ☕ and code best with pizza 🍕
+- 🌍 Based in Colombo, Sri Lanka
 
 ---
 
@@ -26,14 +27,19 @@
 - 🥇 **Completed Harvard's CS50x** – Introduction to Computer Science
 - 🌐 **Created UI designs** for supermarket systems & LMS platforms using Figma
 - 💡 **Solved 100+ coding problems** on platforms like HackerRank & LeetCode
+- 🎓 **Academic Excellence** in Software Engineering coursework
 
 ---
 
 ### 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/milani-kaveesha" target="_blank">
+  <a href="https://linkedin.com/in/milani-kaveesha-186a89215" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="linkedin" />
+  </a>
+  <a href="https://github.com/kaveeshaah" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="github" />
+  </a>
 </p>
 
 ---
@@ -41,7 +47,7 @@
 ### ⚙️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,cpp,c,git,php,cs,vscode&theme=dark" alt="technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,cpp,c,git,php,cs,vscode,figma&theme=dark" alt="technologies" />
 </p>
 
 ---
@@ -61,6 +67,15 @@
 - 🎨 UI/UX with Tailwind CSS
 - 🌍 Building responsive web apps
 - 💬 REST APIs & Authentication (JWT)
+- 🔧 Service-Oriented Architecture
+
+---
+
+### 📚 Recent Projects
+
+- 🏥 **Care Compass Hospital Website** - PHP/MySQL full-stack application
+- 🎓 **EduCore LMS** - React.js/Node.js learning management system
+- 🏭 **CozyComfort Supply Chain** - C#/ASP.NET service-oriented architecture
 
 ---
 
