@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExczRjOTY5NGU0NWh1emkzdnp1d25wYmRhYnhnNXZ1cHRnMmU5ZW9tMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/r61l4pqtpA6JO/giphy.gif" width="50%" alt="Girly Banner" />
+  <img src="https://cdn.midjourney.com/0c82828b-44a2-4f3a-92a0-2bb5021bbd97/0_1.png" width="65%" alt="Stylish Banner" />
 </p>
 
 <h1 align="center">
