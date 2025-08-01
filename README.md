@@ -104,6 +104,13 @@
       style="border-radius: 10px;"
     />
   </a>
+  <a href="https://www.codedex.io/@st2030607133028">
+  <img
+    src="https://img.shields.io/badge/Codedex-ffb6c1?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgdmlld0JveD0iMCAwIDUwIDI1IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0yNSAwQzExLjE4IDAgMCAxMS4yNSAwIDI1aDUwQzUwIDExLjI1IDM4LjgyIDAgMjUgMHpNMTcuMzIgMTguNjIgMTEuMzggMTIuNSAxNy4zMiA2LjM4bDIuMjggMi4yOUwxNiAxMi41bDMuNiAzLjgzLTEuOTYgMi4yOXpNMjYuNjggMTguNjJsMi4yOC0yLjI5TDIzLjQgMTIuNWwzLjU2LTMuODMgMi4zMiAyLjI5TDMxLjcyIDEyLjUgMjkuIDE1LjMzem0xMi4zMyAwTDMxLjY3IDEyLjUgMzcuNiA2LjM4bDIuMjggMi4yOUwzNi4zIDEyLjUgMzkuOTIgMTYuMzMgMzguMDIgMTguNjJ6Ii8+PC9zdmc+"
+    alt="Codedex"
+    style="border-radius: 10px;"
+  />
+</a>
 </p>
 
 ---
