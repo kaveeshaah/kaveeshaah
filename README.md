@@ -26,7 +26,7 @@
 ### 🌸 About Me
 
 - 🎓 **BSc (Hons) in Software Engineering** – Cardiff Metropolitan University  
-- 💻 Working on: **Full Stack Web Apps, UI Designs & Fun Mini Projects**  
+- 💻 Working on: **Full Stack Web Apps | UI Designs & Fun Mini Projects**  
 - 🌷 Exploring: **React, MongoDB**  
 - 💖 Passionate about crafting **user-friendly, beautiful interfaces**  
 - 🌍 Based in: **Colombo, Sri Lanka**  
