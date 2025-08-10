@@ -57,7 +57,7 @@
 
 ### 📈 GitHub Stats
 
-<div align="center" style="margin-top: 10px;">
+<div align="center" style="margin-top: 11px;">
   <img
     src="https://github-readme-stats.vercel.app/api?username=kaveeshaah&show_icons=true&theme=omni&hide_border=true"
     width="48%"
