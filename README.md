@@ -80,7 +80,7 @@
 
 ---
 
-### 💖 Let’s Connect!
+### 💗 Let’s Connect!
 
 <p align="center">
   <a href="https://linkedin.com/in/milani-kaveesha-186a89215" target="_blank">
