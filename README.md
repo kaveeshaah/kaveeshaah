@@ -27,7 +27,7 @@
 
 - 🎓 **BSc (Hons) in Software Engineering** – Cardiff Metropolitan University  
 - 💻 Working on: **Full Stack Web Apps | UI Designs & Fun Mini Projects**  
-- 🌷 Exploring: **React, MongoDB**  
+- 🌷 Exploring: **React, MongoDB, Wordpress**  
 - 💖 Passionate about crafting **user-friendly, beautiful interfaces**  
 - 🌍 Based in: **Colombo, Sri Lanka**  
 - 📧 Reach me: [`st20306071@outlook.cardiffmet.ac.uk`](mailto:st20306071@outlook.cardiffmet.ac.uk)  
