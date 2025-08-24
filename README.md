@@ -10,7 +10,7 @@
 <h1 align="center" style="font-family: 'Pacifico', cursive; margin-top: 20px;">
   <img
     src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=38&duration=3000&pause=500&color=F78DB4&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Milani+Kaveesha+%F0%9F%91%8B;Creative+Coder+%7C+UI%2FUX+Lover+%7C+Coffee+Dev+%E2%98%95%EF%B8%8F"
-    alt="Typing SVG"
+    alt="Typi SVG"
   />
 </h1>
 
