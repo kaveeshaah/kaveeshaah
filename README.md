@@ -27,7 +27,7 @@
 
 - 🎓 **BSc (Hons) in Software Engineering** – Cardiff Metropolitan University  
 - 💻 Working on: **Full Stack Web Apps | UI Designs & Fun Mini Projects**  
-- 🌷 Exploring: **React, MongoDB, Wordpress**  
+- 🌷 Exploring: **React, MongoDB, Flutter, WordPress**  
 - 💖 Passionate about crafting **user-friendly, beautiful interfaces**  
 - 🌍 Based in: **Colombo, Sri Lanka**  
 - 📧 Reach me: [`milanikaveesha.info@gmail.com`](mailto:milanikaveesha.info@gmail.com)  
@@ -39,7 +39,7 @@
 
 - ✅ **CS50x – Harvard** graduate  
 - 🎨 Designed **Supermarket & LMS UI** in Figma  
-- 🚀 Built **10+ full-stack projects** and counting!
+- 🚀 Built **10+ full-stack projects** and counting!  
 
 ---
 
@@ -47,7 +47,7 @@
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,cpp,c,php,git,github,mysql,figma,vscode,tailwind,docker&theme=light"
+    src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,cpp,c,php,git,github,mysql,figma,vscode,tailwind,docker,flutter&theme=light"
     alt="tech stack"
     style="box-shadow: 0 4px 10px rgba(247, 133, 191, 0.25); border-radius: 10px;"
   />
@@ -85,7 +85,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/milani-kaveesha-186a89215" target="_blank">
     <img
-      src="https://img.shields.io/badge/LinkedIn-pink?style=for-the-badge&logo=linkedin&logoColor=white"
+      src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"
       style="border-radius: 10px;"
     />
@@ -105,13 +105,15 @@
     />
   </a>
   <a href="https://www.codedex.io/@st2030607133028">
-  <img
-    src="https://img.shields.io/badge/Codedex-ffb6c1?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgdmlld0JveD0iMCAwIDUwIDI1IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0yNSAwQzExLjE4IDAgMCAxMS4yNSAwIDI1aDUwQzUwIDExLjI1IDM4LjgyIDAgMjUgMHpNMTcuMzIgMTguNjIgMTEuMzggMTIuNSAxNy4zMiA2LjM4bDIuMjggMi4yOUwxNiAxMi41bDMuNiAzLjgzLTEuOTYgMi4yOXpNMjYuNjggMTguNjJsMi4yOC0yLjI5TDIzLjQgMTIuNWwzLjU2LTMuODMgMi4zMiAyLjI5TDMxLjcyIDEyLjUgMjkuIDE1LjMzem0xMi4zMyAwTDMxLjY3IDEyLjUgMzcuNiA2LjM4bDIuMjggMi4yOUwzNi4zIDEyLjUgMzkuOTIgMTYuMzMgMzguMDIgMTguNjJ6Ii8+PC9zdmc+"
-    alt="Codedex"
-    style="border-radius: 10px;"
-  />
-</a>
+    <img
+      src="https://img.shields.io/badge/Codedex-ff69b4?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgdmlld0JveD0iMCAwIDUwIDI1IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0yNSAwQzExLjE4IDAgMCAxMS4yNSAwIDI1aDUwQzUwIDExLjI1IDM4LjgyIDAgMjUgMHpNMTcuMzIgMTguNjIgMTEuMzggMTIuNSAxNy4zMiA2LjM4bDIuMjggMi4yOUwxNiAxMi41bDMuNiAzLjgzLTEuOTYgMi4yOXpNMjYuNjggMTguNjJsMi4yOC0yLjI5TDIzLjQgMTIuNWwzLjU2LTMuODMgMi4zMiAyLjI5TDMxLjcyIDEyLjUgMjkuIDE1LjMzem0xMi4zMyAwTDMxLjY3IDEyLjUgMzcuNiA2LjM4bDIuMjggMi4yOUwzNi4zIDEyLjUgMzkuOTIgMTYuMzMgMzguMDIgMTguNjJ6Ii8+PC9zdmc+"
+      alt="Codedex"
+      style="border-radius: 10px;"
+    />
+  </a>
 </p>
+
+---
 
 > 💡 _"I turn caffeine into code and creativity into UIs that pop!"_  
 > — *Kaveesha*
