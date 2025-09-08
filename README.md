@@ -3,7 +3,7 @@
     alt="coding"
     width="600"
     src="https://i.pinimg.com/originals/b3/26/51/b326517cd8ca44b939a1bee41a7f103c.gif"
-    style="border-radius: 15px; box-shadow: 0 8px 20px rgba(255, 105, 180, 0.4);"
+    style="border-radius: 15px; box-shadow: 0 8px 20px rgba(255, 105, 180, 0.3);"
   />
 </div>
 
