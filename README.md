@@ -37,7 +37,7 @@
 
 ### 🏆 Achievements
 
-- ✅ **CS50x – Harvard** graduate  
+- ✅ **CS50x – Harvard** 
 - 🎨 Designed **Supermarket & LMS UI** in Figma  
 - 🚀 Built **10+ full-stack projects** and counting!  
 
