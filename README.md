@@ -1,4 +1,4 @@
-# Hi 👋, I'm Kaveesha Siriwardhane
+# Hi 👋, I'm Milani Kaveesha
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/b3/26/51/b326517cd8ca44b939a1bee41a7f103c.gif" width="650" alt="Coding Girl"/>
