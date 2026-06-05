@@ -28,7 +28,7 @@ Software Engineering Undergraduate | Full-Stack Developer | AI & Machine Learnin
 
 📍 Colombo, Sri Lanka
 
-📫 Reach me: **[st20306071@outlook.cardiffmet.ac.uk](mailto:st20306071@outlook.cardiffmet.ac.uk)**
+📫 Reach me: **[milanikaveesha.9@gmail.com](mailto:milanikaveesha.9@gmail.com)**
 
 ---
 
