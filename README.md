@@ -1,119 +1,135 @@
+# Hi 👋, I'm Kaveesha Siriwardhane
+
 <div align="center">
-  <img
-    alt="coding"
-    width="601"
-    src="https://i.pinimg.com/originals/b3/26/51/b326517cd8ca44b939a1bee41a7f103c.gif"
-    style="border-radius: 15px; box-shadow: 0 8px 20px rgba(255, 105, 180, 0.3);"
-  />
+  <img src="https://i.pinimg.com/originals/b3/26/51/b326517cd8ca44b939a1bee41a7f103c.gif" width="650" alt="Coding Girl"/>
 </div>
 
-<h1 align="center" style="font-family: 'Pacifico', cursive; margin-top: 20px;">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=38&duration=3000&pause=500&color=F78DB4&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Milani+Kaveesha+%F0%9F%91%8B;Creative+Coder+%7C+UI%2FUX+Lover+%7C+Coffee+Dev+%E2%98%95%EF%B8%8F"
-    alt="Typing SVG"
-  />
-</h1>
+<h3 align="center">
+Software Engineering Undergraduate | Full-Stack Developer | AI & Machine Learning Enthusiast
+</h3>
 
 <p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=kaveeshaah&label=Profile%20Views&color=ff69b4&style=flat"
-    alt="profile views"
-  />
+  <img src="https://komarev.com/ghpvc/?username=kaveeshaah&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
 </p>
 
 ---
 
-### 🌸 About Me
+## 🚀 About Me
 
-- 🎓 **BSc (Hons) in Software Engineering** – Cardiff Metropolitan University  
-- 💻 Working on: **Full Stack Web Apps | UI Designs & Fun Mini Projects**  
-- 🌷 Exploring: **React, MongoDB, Flutter, WordPress**  
-- 💖 Passionate about crafting **user-friendly, beautiful interfaces**  
-- 🌍 Based in: **Colombo, Sri Lanka**  
-- 📧 Reach me: [`milanikaveesha.info@gmail.com`](mailto:milanikaveesha.info@gmail.com)  
-- 🍕 & 🍜 = Perfect coding fuel
+🎓 BSc (Hons) Software Engineering — Cardiff Metropolitan University
 
----
+💼 Software Engineer Intern at Sunquick Sri Lanka
 
-### 🏆 Achievements
+🤖 Currently exploring Artificial Intelligence, Machine Learning, and Computer Vision
 
-- ✅ **CS50x – Harvard** 
-- 🎨 Designed **Supermarket & LMS UI** in Figma  
-- 🚀 Built **10+ full-stack projects** and counting!  
+🌱 Learning TensorFlow, PyTorch, Cloud Technologies, and Advanced Backend Development
+
+💻 Experienced in Full-Stack Development using MERN Stack
+
+📍 Colombo, Sri Lanka
+
+📫 Reach me: **[st20306071@outlook.cardiffmet.ac.uk](mailto:st20306071@outlook.cardiffmet.ac.uk)**
 
 ---
 
-### 🎀 Tech Stack
+## 💡 Current Focus
 
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,cpp,c,php,git,github,mysql,figma,vscode,tailwind,docker,flutter&theme=light"
-    alt="tech stack"
-    style="box-shadow: 0 4px 10px rgba(247, 133, 191, 0.25); border-radius: 10px;"
-  />
+* AI-Based Dental Disease Detection System
+* MERN Stack Web Applications
+* Machine Learning & Deep Learning
+* REST APIs & Backend Engineering
+* Cloud Computing & DevOps Fundamentals
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,php,c,cpp" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,php" />
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### AI / ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+</p>
+
+### Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,figma,azure" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
+## 🏆 Certifications & Achievements
 
-<div align="center" style="margin-top: 11px;">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=kaveeshaah&show_icons=true&theme=omni&hide_border=true"
-    width="48%"
-    style="border-radius: 15px; box-shadow: 0 8px 30px rgba(247, 133, 191, 0.3);"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaveeshaah&layout=compact&theme=omni&hide_border=true&langs_count=8"
-    width="48%"
-    style="border-radius: 15px; box-shadow: 0 8px 30px rgba(247, 133, 191, 0.3);"
-  />
-</div>
-<br>
-<div align="center" style="margin-top: 20px;">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=kaveeshaah&theme=omni&row=1&column=7&margin-w=10&margin-h=15"
-    alt="GitHub Trophies"
-    style="border-radius: 15px; box-shadow: 0 8px 30px rgba(247, 133, 191, 0.3);"
-  />
-</div>
+🏅 CS50x – Harvard University
+
+🏅 Higher Diploma in Computing & Software Engineering
+
+🏅 Diploma in Information & Communication Technology
+
+🚀 Developed multiple Full-Stack and Academic Software Projects
+
+🤖 Building AI-Powered Healthcare Solutions
 
 ---
 
-### 💗 Let’s Connect!
+## 📊 GitHub Statistics
 
 <p align="center">
-  <a href="https://linkedin.com/in/milani-kaveesha-186a89215" target="_blank">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-      style="border-radius: 10px;"
-    />
-  </a>
-  <a href="https://github.com/kaveeshaah" target="_blank">
-    <img
-      src="https://img.shields.io/badge/GitHub-ffb6c1?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
-      style="border-radius: 10px;"
-    />
-  </a>
-  <a href="mailto:st20306071@outlook.cardiffmet.ac.uk">
-    <img
-      src="https://img.shields.io/badge/Email-f4a7b9?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email"
-      style="border-radius: 10px;"
-    />
-  </a>
-  <a href="https://www.codedex.io/@st2030607133028">
-    <img
-      src="https://img.shields.io/badge/Codedex-ff69b4?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgdmlld0JveD0iMCAwIDUwIDI1IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0yNSAwQzExLjE4IDAgMCAxMS4yNSAwIDI1aDUwQzUwIDExLjI1IDM4LjgyIDAgMjUgMHpNMTcuMzIgMTguNjIgMTEuMzggMTIuNSAxNy4zMiA2LjM4bDIuMjggMi4yOUwxNiAxMi41bDMuNiAzLjgzLTEuOTYgMi4yOXpNMjYuNjggMTguNjJsMi4yOC0yLjI5TDIzLjQgMTIuNWwzLjU2LTMuODMgMi4zMiAyLjI5TDMxLjcyIDEyLjUgMjkuIDE1LjMzem0xMi4zMyAwTDMxLjY3IDEyLjUgMzcuNiA2LjM4bDIuMjggMi4yOUwzNi4zIDEyLjUgMzkuOTIgMTYuMzMgMzguMDIgMTguNjJ6Ii8+PC9zdmc+"
-      alt="Codedex"
-      style="border-radius: 10px;"
-    />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=kaveeshaah&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaveeshaah&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaveeshaah&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-> 💡 _"I turn caffeine into code and creativity into UIs that pop!"_  
-> — *Kaveesha*
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://github.com/kaveeshaah">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="mailto:st20306071@outlook.cardiffmet.ac.uk">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+</p>
+
+---
+
+### ✨ Quote
+
+> "Building software today while creating intelligent systems for tomorrow."
